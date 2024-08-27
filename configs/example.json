@@ -1,0 +1,8 @@
+{
+    "output": "backups/backup.tar",
+    "paths": [
+        "DCIM",
+        "Download",
+        "Documents"
+    ]
+}

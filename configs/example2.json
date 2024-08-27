@@ -1,0 +1,9 @@
+{
+    "output": "backups/docs_$date$_$time$.tar",
+    "paths": [
+        "DCIM/Camera/IMG_2024*",
+        "Documents/Work Projects 202[34]",
+        "Pictures/Wallpapers/mountain??*",
+        "db_2024*.log"
+    ]
+}
